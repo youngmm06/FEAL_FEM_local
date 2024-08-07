@@ -19,9 +19,31 @@
 
 # Usage
 ## Downloading FEAL_AEM
+
+## Compile and build
 ### Prerequisites
+Prerequisites to compile FEAL_AEM are as follows:
++ MPI
++ Compiler
 
+### Compile and build
++ Build FEAL_AEM
 
-## Compile
++ Build an example problem after build FEAL_AEM
+
++ Build all
+
+## Mores on compile option
+
+## Running the example
+
+## GPU power mornitoring
+
+# Folder structure
++ `src` : 
+
+# Cite
+
+# References
 
 
