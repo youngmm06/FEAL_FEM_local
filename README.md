@@ -1,4 +1,4 @@
-# FEAL_KEM: CPU-based Parallel Library for Electromagentic Finite element method
+# FEAL_KEM: CPU-based Parallel Library for Electromagentic Finite Element Solver
 
 
 # METIS Library 
@@ -51,11 +51,11 @@ Prerequisites to compile FEAL_AEM are as follows:
 # Cite
 Please use the following bibtex, when you refer to this project.
 ```
-@misc{PaScaL_TDMA2019,
-    title  = "Parallel and Scalable Library for TriDiagonal Matrix Algorithm",
-    author = "Kim, Ki-Ha and Kang, Ji-Hoon and Choi, Jung-Il",
-    url    = "https://github.com/MPMC-Lab/PaScaL_TDMA",
-    year   = "2019"
+@misc{FEAL_AEM2024,
+    title  = "Parallel Library for Electrocmagnetic Finite Element Solver",
+    author = "Shin, Younming-min and Na, Hye-Sun and Lee, Eun-Jung",
+    url    = " ",
+    year   = "2024"
 }
 ```
 
