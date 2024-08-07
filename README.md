@@ -1,4 +1,4 @@
-# FEAL_KEM: CPU-based Parallel Library with Domain Decomposition Method(DDM)
+# FEAL_KEM: CPU-based Parallel Library for Electromagentic Finite element method
 
 
 # METIS Library 
