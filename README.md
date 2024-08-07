@@ -30,7 +30,7 @@ Prerequisites to compile FEAL_AEM are as follows:
 
 ## Mores on compile option
 
-## Running the example
+### Running the example
 
 # Folder structure
 + `src` : source files of FEAL_AEM 1.0.
