@@ -54,7 +54,7 @@ Please use the following bibtex, when you refer to this project.
 @misc{FEAL_AEM2024,
     title  = "Parallel Library for Electrocmagnetic Finite Element Solver",
     author = "Shin, Younming-min and Na, Hye-Sun and Lee, Eun-Jung",
-    url    = " ",
+    url    = "https://github.com/FEAL-Lab/FEAL_AEM",
     year   = "2024"
 }
 ```
