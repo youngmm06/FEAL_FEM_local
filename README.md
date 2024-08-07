@@ -1,13 +1,6 @@
 # FEAL_KEM: CPU-based Parallel Library for Electromagentic Finite Element Solver
 
 
-# METIS Library 
-
-
-
-# MUMPS Library
-
-
 
 # Authors
 + Hyesun Na (hyesunna@yonsei.ac.kr), School of Mathematics and Computing(Computational Science and Engineering), Yonsei University (v1.0)
@@ -24,6 +17,8 @@
 ### Prerequisites
 Prerequisites to compile FEAL_AEM are as follows:
 + MPI
++ METIS
++ MUMPS
 + Compiler
 
 ### Compile and build
@@ -36,8 +31,6 @@ Prerequisites to compile FEAL_AEM are as follows:
 ## Mores on compile option
 
 ## Running the example
-
-## GPU power mornitoring
 
 # Folder structure
 + `src` : source files of FEAL_AEM 1.0.
