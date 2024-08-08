@@ -5,6 +5,11 @@ Most electromagnetic analysis problems on 3D complex structures (especially in t
 
 # MPI implementation in FEAL_AEM 1.0
 In FEAL_AEM 1.0, MPI parallelization is implemented using MPI. MPI-related features are as follows:
++ (1) Assign each subdomain to an MPI processor.
++ (2) Independently generate the local matrix for each subdomain assigned to a processor.
++ (3) Use MPI functions to exchange information according to the FETI-DP process.
++ (4) Combine the local solutions to form the global solution.
+
 
 # Authors
 + Hyesun Na (hyesunna@yonsei.ac.kr), School of Mathematics and Computing(Computational Science and Engineering), Yonsei University (v1.0)
